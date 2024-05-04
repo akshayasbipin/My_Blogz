@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Teachers:ital,wght@0,400..800;1,400..800&display=swap');
+body {
+    background-image: url('My.png');
+}
+.logged_in_but{
+    font-family: "Freeman", sans-serif;
+    background-color: #f1ab5f;
+    font-size: 20px;
+    padding:10px;
+    display: block; 
+    margin: 0 auto; 
+}
+
+.logged_in{
+    font-family: "Teachers", sans-serif;
+    color:aliceblue;
+    text-align:center;
+    font-size: 90px;
+    background-color: #737373;
+    margin:10px;
+}
+div{
+    font-family: "Teachers", sans-serif;
+    border: 3px solid black; 
+    padding: 5px; 
+    margin: 10px;
+    background-color: aliceblue;
+}
+.logo{
+    font-family:"Freeman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-color: rgb(249, 249, 112);
+}
+input[type="text"] {
+    margin-right: 10px; /* Add space below the input */
+}
+
+textarea {
+    margin-left: 10px; /* Add space above the textarea */
+    margin-right: 10px;
+}
