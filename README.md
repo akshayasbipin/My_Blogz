@@ -1,5 +1,7 @@
 # My_Blogz
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
 **Introduction:**<br>
 In the world of web development, Laravel stands out as a powerful and elegant PHP framework for crafting robust web applications. Leveraging its features, I embarked on a journey to develop a fully-functional blogging platform, adeptly named Blogz. Let's delve into the intricacies of its development and the features it offers.
 
