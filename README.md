@@ -1,16 +1,17 @@
-# Spending Tracker
+# My_Blogz
 
-Download the application [here](https://github.com/Akshaya21513/Spending-Tracker/releases).
+**Introduction:**<br>
+In the world of web development, Laravel stands out as a powerful and elegant PHP framework for crafting robust web applications. Leveraging its features, I embarked on a journey to develop a fully-functional blogging platform, adeptly named Blogz. Let's delve into the intricacies of its development and the features it offers.
 
-**Budget Management App using Java**: This Budget Management App, developed in Java and integrated with MySQL database, offers efficient spending tracking and analysis capabilities.
+**Blog Web Application using Laravel**: A blog web app facilitates sharing insights and fostering community engagement. Users can effortlessly manage content and engage with a vibrant online community, enhancing the blogging experience.
 
-**Development Environment**: Implemented with Java NetBeans IDE.
+**Development Environment**: Used Laravel Framework abilities.
 
 **Features Implemented**:
-- **Spending Tracker**: Users can easily view all spending records.
-- **Category Management**: Enables categorization by material or date for better organization and analysis.
-- **Database Integration using MySQL**: Optimized database schema for storing spending data efficiently. This integration facilitates user preferences in data formatting and provides valuable insights into total spending.
-- **User Interface (UI)**: UI using Java Swing for a seamless and user-friendly experience.
+- **Register new user**: Users can easily register.
+- **Login**: Users can easily login and view their previous blogs.
+- **Edit and Delete blogs**: User can easily edit their blogs.
+- **User Interface (UI)**: Provies user-friendly experience.
 
 ---
 
