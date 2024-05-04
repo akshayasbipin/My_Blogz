@@ -3,9 +3,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 **Introduction:**
-In the world of web development, Laravel stands out as a powerful and elegant PHP framework for crafting robust web applications. Leveraging its features, I embarked on a journey to develop a fully-functional blogging platform, adeptly named Blogz. Let's delve into the intricacies of its development and the features it offers.
+In the world of web development, Laravel stands out as a powerful and elegant PHP framework for crafting robust web applications. Leveraging its features, I embarked on a journey to develop a blogging platform, adeptly named My_Blogz. Let's delve into the intricacies of its development and the features it offers.
 
-**Blog Web Application using Laravel**: A blog web app facilitates sharing insights and fostering community engagement. Users can effortlessly manage content and engage with a vibrant online community, enhancing the blogging experience.
+**Blog Web Application using Laravel**: A blog web app facilitates sharing insights. Users can effortlessly manage content hence engage and enhance their blogging experience.
 
 **Development Environment**: Used Laravel Framework abilities.
 
